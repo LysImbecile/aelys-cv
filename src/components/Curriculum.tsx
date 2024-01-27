@@ -1,11 +1,9 @@
 import React from "react";
 
-
 import { MdOutlineEmail } from "react-icons/md";
 import { BsTelephone } from "react-icons/bs";
 import { FiGithub } from "react-icons/fi";
 import { PiPaperPlaneTiltBold } from "react-icons/pi";
-import { Grid } from "@material-ui/core";
 
 
 const Curriculum: React.FC = () => {
